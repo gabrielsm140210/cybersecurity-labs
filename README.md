@@ -1,6 +1,6 @@
 # 🛡️ Meu Portfólio de Cibersegurança
 
-Bem-vindo ao meu repositório de estudos práticos e projetos em cibersegurança! Aqui documento minha jornada desenvolvendo competências técnicas em redes, sistemas Linux, análise de dados e segurança defensiva.
+Bem-vindo ao meu repositório de estudos práticos e projetos em cibersegurança! Aqui documento minha jornada desenvolvendo competências técnicas em redes, sistemas Linux, análise de dados e segurança defensiva, além de muitas outras habilidades adquiridas no curso de cibersegurança do Google, pela plataforma coursera!!
 
 ## 📁 Projetos Desenvolvidos
 
