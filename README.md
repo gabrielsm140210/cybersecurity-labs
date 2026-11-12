@@ -11,7 +11,3 @@ Bem-vindo ao meu repositório de estudos práticos e projetos em cibersegurança
 ### 2. Domínio de Linux e Investigação de Logs (Curso 4)
 * **O que foi estudado:** Utilização de CLI do Linux, gerenciamento de permissões (`chmod`/`chown`), navegação por caminhos absolutos/relativos e estruturação de dados.
 * **Competências:** Automação básica de terminal, navegação em sistemas operacionais seguros e análise de registros para resposta a incidentes.
-
-### 3. Consultas e Relacionamento de Dados com SQL (Curso 4)
-* **O que foi estudado:** Criação e manipulação de bases de dados relacionais, aplicação de chaves primárias e estrangeiras, além de filtragens avançadas com operadores e *wildcards*.
-* **Competências:** Extração de dados críticos para auditorias e investigações de segurança.
