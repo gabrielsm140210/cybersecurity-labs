@@ -1,0 +1,4 @@
+SELECT *
+FROM acessos_sistema
+WHERE horario BETWEEN '00:00:00' AND '05:00:00'
+LIMIT 10;
